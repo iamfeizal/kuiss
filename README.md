@@ -1,5 +1,3 @@
-# kuis_praktikum_124200015
-
 A new Flutter project.
 
 ## Getting Started
